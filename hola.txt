@@ -1,1 +1,3 @@
 ¡Hola GitHub! Estoy aprendiendo a usarlo.
+
+Como estudiante de programación, espero adquirir los conocimientos y habilidades necesarios para comprender y resolver problemas de manera eficiente a través del código. Mi objetivo es aprender diferentes lenguajes de programación, entender sus aplicaciones y aprender a diseñar algoritmos efectivos. Además, quiero desarrollar una mentalidad lógica y creativa que me permita abordar desafíos complejos y crear soluciones innovadoras. También espero familiarizarme con herramientas y tecnologías modernas que se usan en el desarrollo de software, y así poder colaborar en proyectos reales y aportar mis ideas al mundo de la programación.
